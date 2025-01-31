@@ -30,3 +30,4 @@ function binaryToDecimal($binaryNumber)
 
     return $decimalNumber;
 }
+ foreach ($binaryDigits as $index => $digit.fix)
